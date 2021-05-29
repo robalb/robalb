@@ -1,7 +1,7 @@
 ```jsx
 import 'styles.css';
 
-function liveCode() {
+function LiveCode() {
   const [clicks, setClicks] = useState(0);
   return (
     <div>
