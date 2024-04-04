@@ -2,10 +2,10 @@
 <h2> Hi, I'm Alberto. </h2> 
 
 <div >
-<a href="https://halb.it">Blog</a>
+<a href="https://halb.it?mobile=git">Blog</a>
 &nbsp;&nbsp;
-<a href="https://halb.it/projects/">Projects</a>
+<a href="https://halb.it/projects/?mobile=git">Projects</a>
 &nbsp;&nbsp;
-<a href="https://halb.it/about/">About me</a>
+<a href="https://halb.it/about/?mobile=git">About me</a>
 </div>
 
